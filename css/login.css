@@ -1,0 +1,33 @@
+.footer-login {
+    background-color: #fff;
+    bottom: 0;
+    padding: 19px 24px 20px;
+    position: absolute;
+    right: 0;
+    color: #98a6ad;
+}
+
+.footer-login ul {
+    margin: 0;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+}
+
+.footer-login li {
+    list-style: none;
+    display: inline-block;
+    padding: 5px 7px;
+}
+
+ul li img {
+    filter: grayscale(100%);
+    opacity: 0.5;
+    transition: 0.2s;
+    max-height: 20px;
+}
+.mujib-100{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}

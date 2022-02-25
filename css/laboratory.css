@@ -1,0 +1,37 @@
+.btn-gray {
+    background-color: #5D6D75;
+    border: none;
+    color: white;
+}
+
+.btn-light-gray {
+    background-color: #B8B8B8;
+    border: none;
+    color: white;
+}
+
+.btn-report {
+    background-color: #00B496 !important;
+    border: none;
+    color: white;
+}
+
+.btn-light-green {
+    background-color: #00D184;
+    color: white;
+    border: none;
+}
+
+.btn-outline-gray {
+    border-color: gray;
+    color: gray;
+}
+
+.td-gray {
+    background-color: #5D6D75 !important;
+    color: #fff !important;
+}
+
+.pending {
+    color: #e4790a !important;
+}

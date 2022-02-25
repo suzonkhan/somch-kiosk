@@ -1,0 +1,12 @@
+.btn-gray {
+    background-color: gray;
+    color: white;
+}
+
+.text-green {
+    color: #56a201 !important;
+}
+
+.text-warning {
+    color: #ffc107
+}

@@ -1,0 +1,36 @@
+.poisha{
+    margin-left: 20px;
+}
+.hrm-0{
+    margin: 0px;
+}
+.requisition-status-pending{
+    color: #EB7508 !important;
+}
+.requisition-status-received{
+    color: #05E30E !important;
+}
+.requisition-status-sterilized{
+    color: #006CFF !important;
+}
+.requisition-status-collected{
+    color: #006559 !important;
+}
+
+
+.requisition-btn-pending{
+    background: #EB7508 !important;
+    color: white;
+}
+.requisition-btn-received{
+    background: #05E30E !important;
+    color: white;
+}
+.requisition-btn-sterilized{
+    background: #006CFF !important;
+    color: white;
+}
+.requisition-btn-collected{
+    background: #006559 !important;
+    color: white;
+}

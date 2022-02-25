@@ -1,0 +1,82 @@
+
+.square-green{
+    width: 15px;
+    height: 15px;
+   border-radius: 2px;
+    background: green;
+    margin-top: 18px;
+
+}
+.square-orange{
+    width: 15px;
+    height: 15px;
+    border-radius: 2px;
+    background: orange;
+    margin-top: 18px;
+
+}
+
+.text-sm{
+    font-size: 75%;
+}
+
+.hospital-bed-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.hospital-bed-wrapper>div{
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 10px;
+}
+
+.hospital-bed-wrapper>div>div{
+    border: 1px solid transparent;
+    border-radius: 4px;
+    text-align: center;
+    padding: 30px;
+}
+
+.hospital-bed-icon{
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 30px;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 50%;
+    font-size: 28px;
+    color: white;
+}
+.hospital-bed-wrapper>div.available-bed>div{
+    border-color: #56a201;
+}
+.hospital-bed-wrapper>div.available-bed .hospital-bed-icon{
+    background-color: #56a201;
+
+}
+.hospital-bed-wrapper>div.occupied-bed>div{
+    border-color: #a20101;
+}
+.hospital-bed-wrapper>div.occupied-bed .hospital-bed-icon{
+    background-color: #a20101;
+
+}
+.hospital-bed-wrapper>div.pending-bed>div{
+    border-color: #d08c0d;
+}
+.hospital-bed-wrapper>div.pending-bed .hospital-bed-icon{
+    background-color: #D08C0DFF;
+
+}
+
+.bg-ash{
+    background: #5D6D75;
+}
+
+.card-success{
+    background: #C8E6C9;
+}.card-warning{
+    background: #F0F4C3;
+}

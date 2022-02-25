@@ -1,0 +1,34 @@
+.sms-no {
+    color: red !important;
+}
+
+.sms-failed {
+    color: #DE8500 !important;
+}
+
+.sms-yes {
+    color: green !important;
+}
+
+.resend-btn {
+    background-color: #308994;
+    color: white;
+}
+
+.form-btn {
+    padding: 10px;
+}
+
+.date-field-wrapper {
+    max-width: 425px;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.date-field-wrapper>div {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 425px;
+    flex: 0 0 425px;
+    max-width: 425px;
+}

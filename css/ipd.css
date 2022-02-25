@@ -1,0 +1,41 @@
+.red-card {
+    background: #F08E84;
+}
+.list{
+    color: #000000;
+}
+.text-area{
+    height: 230px;
+    outline: none;
+}
+
+.btn-orange{
+    background: #F29D56;
+    color: white;
+}
+
+.btn-pink{
+    background: #F10075;
+    color: white;
+}
+
+.btn-one{
+background: #3BB001;
+}
+
+
+.btn-three{
+    background: #609FD2;
+}
+
+.btn-five{
+    background: #0D8A9A;
+}
+
+.btn-six{
+    background: #78BF29;
+}
+
+.btn-seven{
+    background: #525252;
+}

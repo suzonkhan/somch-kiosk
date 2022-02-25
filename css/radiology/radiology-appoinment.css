@@ -1,0 +1,58 @@
+    .btn-circle.btn-xl {
+        width: 70px;
+        height: 70px;
+        padding: 10px 16px;
+        border-radius: 35px;
+        font-size: 24px;
+        line-height: 1.33;
+    }
+    
+    .btn-circle {
+        width: 30px;
+        height: 30px;
+        padding: 6px 0px;
+        border-radius: 50%;
+        text-align: center;
+        font-size: 12px;
+        line-height: 1.42857;
+        color: white;
+    }
+    
+    .btn-circle-blanck {
+        border: 1px solid black;
+        width: 30px;
+        height: 30px;
+        padding: 6px 0px;
+        border-radius: 50%;
+        text-align: center;
+        font-size: 12px;
+        line-height: 1.42857;
+        color: white;
+    }
+    
+    .btn-infoo {
+        background-color: green;
+    }
+    
+    .btn-warningg {
+        background-color: red;
+        color: white;
+    }
+    
+    .btn-gray {
+        background-color: #5D6D75;
+        border: none;
+        color: white;
+    }
+    
+    .icon-red {
+        color: red;
+    }
+    
+    .btn-warning {
+        color: white;
+    }
+    
+    .pending {
+        color: #e4790a;
+    }

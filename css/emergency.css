@@ -1,0 +1,80 @@
+.icon1{
+    height: 12px;
+    width: 12px;
+   border: 12px solid #2D80C4;
+    border-radius: 50px;
+    position: absolute;
+
+}
+.icon2{
+    height: 12px;
+    width: 12px;
+    border: 12px solid #1ECBE1;
+    border-radius: 50px;
+    margin-left: 11px;
+   
+}
+
+.slash{
+    margin-top: 40px;
+}
+.textColor{
+    color: #2D80C4;
+}
+.white-text{
+    color: white;
+}
+.button1{
+    width: 100%;
+    height: 50px;
+    background-color: #E0FBFF;
+    color: #0D8A9A;
+    border-radius: 0px 0px 0px 5px;
+    border: none;
+}
+.button2{
+    width: 100%;
+    height: 50px;
+    background-color: #D2E7FF;
+    color: #2C77DE;
+    border-radius: 0px 0px 5px 0px;
+    border: none;
+
+}
+
+.btn-light-blue{
+    width: auto;
+    height: 27px;
+    Padding: 3px 10px 3px 10px;
+    background: #C9E6FF;
+    color: #2870AF;
+    padding: 3px 10px;
+    border-radius: 4px;
+    border: none;
+
+}
+
+.btn-light-green{
+    width: auto;
+    height: 27px;
+    Padding: 3px 10px 3px 10px;
+    background: #B4F7FF;
+    color: #308994;
+    padding: 3px 10px;
+    border-radius: 4px;
+    border: none;
+
+}
+
+.r{
+font-size: 2rem;
+}
+
+.status{
+    height: 21px;
+    width: auto; !important;
+    color: #EEF7FF;
+    padding: 2px 9px;
+    background: #2D80C4;
+    border-radius: 4px;
+}

@@ -1,0 +1,21 @@
+
+.text-orange{
+    color: #EB7508;
+}
+
+.requisition-btn-pending{
+    background: #EB7508 !important;
+    color: white;
+}
+.requisition-btn-received{
+    background: #05E30E !important;
+    color: white;
+}
+.requisition-btn-sterilized{
+    background: #2C77DE!important;
+    color: white;
+}
+.requisition-btn-collected{
+    background: #006559 !important;
+    color: white;
+}

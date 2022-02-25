@@ -1,0 +1,1 @@
+# somch-kiosk
